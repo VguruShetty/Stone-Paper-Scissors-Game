@@ -7,7 +7,7 @@ Play against the computer, track your score, and enjoy clean visuals with dynami
 
 👉 Play the Game Here
 
-(Once you publish it using GitHub Pages, replace # with your live link.)
+ https://vgurushetty.github.io/Stone-Paper-Scissors-Game/
 
 🧩 Features
 
@@ -31,6 +31,7 @@ JavaScript (ES6) – game logic and score management
 
 📂 Project Structure
 Stone-Paper-Scissors/
+
 │
 ├── index.html       # Main HTML file
 
@@ -73,4 +74,7 @@ If both choices are the same → it’s a Draw.
 
 🖼️ Screenshot
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](./Output/Screenshot%201.png)
+![Game Screenshot](./Output/Screenshot%202.png)
+![Game Screenshot](./Output/Screenshot%203.png)
+![Game Screenshot](./Output/Screenshot%204.png)
