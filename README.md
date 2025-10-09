@@ -33,6 +33,7 @@ JavaScript (ES6) – game logic and score management
 Stone-Paper-Scissors/
 
 │
+
 ├── index.html       # Main HTML file
 
 ├── style.css        # Styling for layout and design
