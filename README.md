@@ -32,8 +32,6 @@ JavaScript (ES6) – game logic and score management
 📂 Project Structure
 Stone-Paper-Scissors/
 
-│
-
 ├── index.html       # Main HTML file
 
 ├── style.css        # Styling for layout and design
