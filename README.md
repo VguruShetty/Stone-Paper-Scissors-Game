@@ -3,13 +3,13 @@
 A fun, interactive Stone–Paper–Scissors web game built using HTML, CSS, and JavaScript.
 Play against the computer, track your score, and enjoy clean visuals with dynamic messages for wins, losses, and draws.
 
-🚀 Live Demo
+🚀 Live Demo:
 
 👉 Play the Game Here
 
  https://vgurushetty.github.io/Stone-Paper-Scissors-Game/
 
-🧩 Features
+🧩 Features:
 
 🎮 Simple and interactive gameplay
 
