@@ -1,5 +1,6 @@
 # 🪨📄✂️ Stone, Paper & Scissors Game
 
+
 A fun, interactive Stone–Paper–Scissors web game built using HTML, CSS, and JavaScript.
 Play against the computer, track your score, and enjoy clean visuals with dynamic messages for wins, losses, and draws.
 
